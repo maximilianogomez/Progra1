@@ -1,0 +1,4 @@
+rugby
+1.75
+tennis
+1.15
