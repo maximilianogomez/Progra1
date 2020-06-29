@@ -1,0 +1,5 @@
+Pueden contener oraciones que ocupen poco, quedan igual.
+Otras oraciones son muy extensas, por lo que va a ocupar mas de un renglón, 
+teniendo simbolos!! y expresiones posibles del lenguaje.
+Un registro puede tener dos oraciones. 
+Comienza una segunda oracion aqui.

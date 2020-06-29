@@ -1,0 +1,2 @@
+Pueden contener oraciones que ocupen poco.
+Otras oraciones son muy extensas, por lo que va a ocupar mas de un renglón, teniendo simbolos!! y expresiones posibles del lenguaje.
