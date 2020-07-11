@@ -1,0 +1,8 @@
+1;las cadenas son mutables?;no
+2;Es posible tener una tupla dentro de otra tupla?;si
+3;en un mismo diccionario pueden haber claves repetidas?;no
+4;Los conjuntos tienen orden?;no
+5;Los conjuntos tienen elementos repetidos?;no
+6;Las listas son mutables?;si
+7;Las rebanadas tienen restricciones de indices?;no
+8;En Python, las matrices son listas de listas?;si
