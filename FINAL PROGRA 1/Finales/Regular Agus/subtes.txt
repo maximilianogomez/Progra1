@@ -1,0 +1,6 @@
+A;San Pedrito;San José de Flores;Carabobo;Puan;Primera Junta;Acoyte;Rio de Janeiro;Castro Barros;Loria;Plaza Miserere:H;Alberti;Pasco;Congreso;Saenz Peña;Lima:C;Av de Mayo;Piedras;Peru:D,E;Plaza de Mayo
+D;Congreso de Tucuman;Juramento;Jose Hernandez;Olleros;Mtro Carranza;Palermo;Plaza Italia;Scalabrini Ortiz;Bulnes;Aguero;Pueyrredon:H;Facultad de Medicina;Callao;Tribunales;Carlos Pellegrini:B,C;Catedral:A,E
+B;Leandro N Alem:E;Florida;Carlos Pelegrini:C,D;Uruguay;Callao;Pasteur;Pueyrredon:H;Carlos Gardel;Medrano;Angel Gallardo;Malabia;Dorrego;Federico Lacroze;Tronador;De los Incas;Echeverria; Juan Manuel de Rosas
+C;Retiro:E,H;General San Martin;Lavalle;Diagonal Norte:B,D;Av de Mayo:A;Moreno;Independencia:E;San Juan;Constitucion
+E;Plaza de Los Virrelles;Varela;Medalla Milagrosa;Emilio Mitre;Jose Maria Moreno;Av La Plata;Boedo;Gral. Urqiza;Jujuy:H;Pichincha;Entre Rios;San Jose;Independencia:C;Belgrano;Bolivar:A,D;Correo Central:B;Catalinas;Retiro:C
+H;Facultad de Derecho;Las Heras;Santa Fe:D;Cordoba;Corrientes:B;Once:A;Venezuela;Humberto I:E;Inclan;Caseros;Parque Patricios;Hospitales
